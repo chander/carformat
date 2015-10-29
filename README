@@ -1,0 +1,8 @@
+This is a simple python script that I use to take exports of music files
+from my iTunes library and make the usable via the SD reader on my
+VW Jetta/Mercedes.  I don't think either device supports the apple lossless
+codec, so this converts them to MP3.  It also uses the tags in the files
+to determine the name/track number/etc and use the data to name the files
+and organize the files into directories.
+
+
